@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "zichanbao/tabBar/&#x6211;&#x7684;/&#x6536;&#x8d27;&#x5730;&#x5740;/controller/AddNewAddressViewController.m"
+            timestampString = "512645815.66175"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "392"
+            endingLineNumber = "392"
+            landmarkName = "-addNewaddressAction"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AddNewAddressViewController addNewaddressAction]"
+                  moduleName = "zichanbao"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhixiang/Documents/iOS_%E7%B1%B3%E6%9C%88%E8%99%B9/%E7%9B%B4%E5%90%91%E8%B4%A2%E5%AF%8C/%E4%BF%AE%E5%A4%8D1.17bug/zichanbao/tabBar/%E6%88%91%E7%9A%84/%E6%94%B6%E8%B4%A7%E5%9C%B0%E5%9D%80/controller/AddNewAddressViewController.m"
+                  timestampString = "513056684.9783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "392"
+                  endingLineNumber = "392"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50-[AddNewAddressViewController addNewaddressAction]_block_invoke"
+                  moduleName = "zichanbao"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhixiang/Documents/iOS_%E7%B1%B3%E6%9C%88%E8%99%B9/%E7%9B%B4%E5%90%91%E8%B4%A2%E5%AF%8C/%E4%BF%AE%E5%A4%8D1.17bug/zichanbao/tabBar/%E6%88%91%E7%9A%84/%E6%94%B6%E8%B4%A7%E5%9C%B0%E5%9D%80/controller/AddNewAddressViewController.m"
+                  timestampString = "513056684.978693"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "393"
+                  endingLineNumber = "393"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
